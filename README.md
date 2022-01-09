@@ -1,1 +1,1 @@
-# 1sDjangoClientLoc Личный кабинет клиента (Python+Django)
+# 1sDjangoClientLoc Личный кабинет клиента 1c (Python+Django)
